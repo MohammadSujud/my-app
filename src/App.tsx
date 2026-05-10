@@ -1,3 +1,4 @@
+// Main App Component - Employee Management System
 import { useEffect, useState } from "react";
 import NavBar from "./Components/NavBar.tsx";
 import EmployeeList from "./Components/EmpolyeeList.tsx";
